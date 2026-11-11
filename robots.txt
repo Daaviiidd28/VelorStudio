@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://velorstudios.es/sitemap.xml
